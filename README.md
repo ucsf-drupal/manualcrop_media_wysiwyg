@@ -1,1 +1,3 @@
-This Drupal module alters the behavior of [Manual Crop](https://www.drupal.org/project/manualcrop) to only display allowed view modes for cropping from a WYSIWYG upload.
+**This project has moved to drupal.org.**
+
+Please visit https://www.drupal.org/sandbox/erykmynn/2443015.
